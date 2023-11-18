@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: ACF Additions
-Plugin URI: https://github.com/galawar/acf-addtions
+Plugin URI: https://github.com/galawar/ACF-Additions
 Description: Additional fields for Advanced Custom Fields
 Version: 0.0.2
 Author: galawar
