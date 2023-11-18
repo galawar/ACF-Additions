@@ -1,0 +1,15 @@
+.field-type-icon-acfa-gf:before {
+	content: "";
+	width: 14px;
+	height: 14px;
+	position: relative;
+	background-color: #0783BE;
+	-webkit-mask-size: cover;
+	mask-size: cover;
+	-webkit-mask-repeat: no-repeat;
+	mask-repeat: no-repeat;
+	-webkit-mask-position: center;
+	mask-position: center;
+	-webkit-mask-image: url(../../assets/images/field-type-icons/icon-field-gravityforms.svg);
+	mask-image: url(../../assets/images/field-type-icons/icon-field-gravityforms.svg);
+}

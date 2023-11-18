@@ -1,0 +1,19 @@
+{
+    "name": "galawar/acf-additions",
+    "description": "Additional fields for Advanced Custom Fields",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ACFAdditions\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "galawar",
+            "email": "galawarz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
